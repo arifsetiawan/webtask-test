@@ -1,0 +1,19 @@
+{
+  "name": "webtask-test",
+  "version": "0.1.0",
+  "description": "Webtask runner test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serverless",
+    "webtask",
+    "lambda"
+  ],
+  "author": "Nurul Arif Setiawan",
+  "license": "ISC",
+  "dependencies": {
+    "unirest": "^0.5.0"
+  }
+}
